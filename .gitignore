@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+renv/library/
+renv/staging/
+data/raw/*
+!data/raw/.gitkeep
+outputs/*
+!outputs/samples/
+!outputs/reports/
+outputs/samples/*
+outputs/reports/*
+.DS_Store
+Start/
+docs/
