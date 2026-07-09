@@ -1,6 +1,6 @@
 # Vocabulary Size Estimator
 
-Estimate passive vocabulary size using a frequency list and stratified random sampling.
+Estimate passive vocabulary size in minutes instead of testing thousands of words.
 
 ---
 
