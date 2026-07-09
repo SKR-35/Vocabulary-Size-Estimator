@@ -17,3 +17,4 @@ docs/
 *.Rproj
 data/
 inst/
+*.dcf
