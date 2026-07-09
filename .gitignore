@@ -14,3 +14,4 @@ outputs/reports/*
 .DS_Store
 Start/
 docs/
+*.Rproj
