@@ -15,3 +15,5 @@ outputs/reports/*
 Start/
 docs/
 *.Rproj
+data/
+inst/
